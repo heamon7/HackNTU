@@ -1,7 +1,7 @@
-# Python-getting-started
+# HackNTU
 
 一个简单的使用 Flask 的 Python 应用。
-可以运行在 LeanEngine Python 运行时环境。
+运行在 LeanEngine Python 运行时环境。
 
 ## 本地运行
 
@@ -26,7 +26,6 @@ export LC_APP_ID=<your app id>
 export LC_APP_KEY=<your app key>
 export LC_APP_MASTER_KEY=<your master key>
 ```
-
 启动项目：
 
 ```
